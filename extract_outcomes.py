@@ -76,7 +76,7 @@ def main():
         if table is not None:
             all_tables.append(table)
     all_tables = pd.concat(all_tables)
-    all_tables.to_csv("objectives.csv", encoding='utf-8', index=False)
+    all_tables.to_csv("module_outcomes.csv", encoding='utf-8', index=False)
 
 if __name__ == "__main__":
     main()

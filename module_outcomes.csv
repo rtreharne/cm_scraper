@@ -1197,3 +1197,600 @@ Immunology and Vet Pathology,BIOS335,SKILL,S3,Information retrieval and review
 Immunology and Vet Pathology,BIOS335,SKILL,S4,Critical thinking and problem solving
 Immunology and Vet Pathology,BIOS335,SKILL,S5,Global citizenship
 Immunology and Vet Pathology,BIOS335,SKILL,S6,Self-evaluation skills
+RESEARCH PROJECT,LIFE700,LO,LO1,"Plan and execute a piece of scientific research in a responsible, safe, professional and ethical manner;"
+RESEARCH PROJECT,LIFE700,SKILL,S1,ââTechnical proficiency in experimental or observational methods relevant to the specific project
+RESEARCH PROJECT,LIFE700,SKILL,S2,"ââProblem solving skills, numeracy, IT skills"
+RESEARCH PROJECT,LIFE700,SKILL,S3,"ââCommunication skills, ethical awareness."
+RESEARCH PROJECT,LIFE700,SKILL,S4,Team work and âOrganisational skills
+RESEARCH PROJECT,LIFE700,LO,LO2,Formulate a hypothesis and design a coherent and feasible experimental plan to test that hypothesis using scientific methods and resources;
+RESEARCH PROJECT,LIFE700,SKILL,S1,ââTechnical proficiency in experimental or observational methods relevant to the specific project
+RESEARCH PROJECT,LIFE700,SKILL,S2,"ââProblem solving skills, numeracy, IT skills"
+RESEARCH PROJECT,LIFE700,SKILL,S3,"ââCommunication skills, ethical awareness."
+RESEARCH PROJECT,LIFE700,SKILL,S4,Team work and âOrganisational skills
+RESEARCH PROJECT,LIFE700,LO,LO3,"ââAnalyse and critically evaluate data, observations and draw valid conclusions;"
+RESEARCH PROJECT,LIFE700,SKILL,S1,ââTechnical proficiency in experimental or observational methods relevant to the specific project
+RESEARCH PROJECT,LIFE700,SKILL,S2,"ââProblem solving skills, numeracy, IT skills"
+RESEARCH PROJECT,LIFE700,SKILL,S3,"ââCommunication skills, ethical awareness."
+RESEARCH PROJECT,LIFE700,SKILL,S4,Team work and âOrganisational skills
+RESEARCH PROJECT,LIFE700,LO,LO4,"Appreciate the importance of maintaining clear, accurate and up to date records;"
+RESEARCH PROJECT,LIFE700,SKILL,S1,ââTechnical proficiency in experimental or observational methods relevant to the specific project
+RESEARCH PROJECT,LIFE700,SKILL,S2,"ââProblem solving skills, numeracy, IT skills"
+RESEARCH PROJECT,LIFE700,SKILL,S3,"ââCommunication skills, ethical awareness."
+RESEARCH PROJECT,LIFE700,SKILL,S4,Team work and âOrganisational skills
+RESEARCH PROJECT,LIFE700,LO,LO5,"â Evaluate own performance and working standards, and place their workÂ in the context of the wider scientific community; â"
+RESEARCH PROJECT,LIFE700,SKILL,S1,ââTechnical proficiency in experimental or observational methods relevant to the specific project
+RESEARCH PROJECT,LIFE700,SKILL,S2,"ââProblem solving skills, numeracy, IT skills"
+RESEARCH PROJECT,LIFE700,SKILL,S3,"ââCommunication skills, ethical awareness."
+RESEARCH PROJECT,LIFE700,SKILL,S4,Team work and âOrganisational skills
+RESEARCH PROJECT,LIFE700,LO,LO6,"Synthesise and interpret the relevant literature and communicate findings in a variety of formats (oral, written reports) to supervisor, research staff and peers."
+RESEARCH PROJECT,LIFE700,SKILL,S1,ââTechnical proficiency in experimental or observational methods relevant to the specific project
+RESEARCH PROJECT,LIFE700,SKILL,S2,"ââProblem solving skills, numeracy, IT skills"
+RESEARCH PROJECT,LIFE700,SKILL,S3,"ââCommunication skills, ethical awareness."
+RESEARCH PROJECT,LIFE700,SKILL,S4,Team work and âOrganisational skills
+RESEARCH INTERNSHIP,LIFE701,LO,LO1,Critically reflect on the development of employability skills through accurate record of their experiences
+RESEARCH INTERNSHIP,LIFE701,SKILL,S1,ââProblem solving skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S2,ââTeamwork
+RESEARCH INTERNSHIP,LIFE701,SKILL,S3,ââCommunication skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S4,ââEthical awareness
+RESEARCH INTERNSHIP,LIFE701,SKILL,S5,Â
+RESEARCH INTERNSHIP,LIFE701,LO,LO2,"Appropriately communicate findings, in a variety of formats (oral, written reports) to supervisor, research staff and peers describing their experiences during the internship, including the research objectives of researchÂ team in which the internship took place, and the rationale behind the project designÍ¾â"
+RESEARCH INTERNSHIP,LIFE701,SKILL,S1,ââProblem solving skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S2,ââTeamwork
+RESEARCH INTERNSHIP,LIFE701,SKILL,S3,ââCommunication skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S4,ââEthical awareness
+RESEARCH INTERNSHIP,LIFE701,SKILL,S5,Â
+RESEARCH INTERNSHIP,LIFE701,LO,LO3,Appraise current work placement practice in relation to both employer and employees outcomes â
+RESEARCH INTERNSHIP,LIFE701,SKILL,S1,ââProblem solving skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S2,ââTeamwork
+RESEARCH INTERNSHIP,LIFE701,SKILL,S3,ââCommunication skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S4,ââEthical awareness
+RESEARCH INTERNSHIP,LIFE701,SKILL,S5,Â
+RESEARCH INTERNSHIP,LIFE701,LO,LO4,"âAnalyse and critically evaluate data, information and observations, and draw valid conclusionsÍ¾â"
+RESEARCH INTERNSHIP,LIFE701,SKILL,S1,ââProblem solving skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S2,ââTeamwork
+RESEARCH INTERNSHIP,LIFE701,SKILL,S3,ââCommunication skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S4,ââEthical awareness
+RESEARCH INTERNSHIP,LIFE701,SKILL,S5,Â
+RESEARCH INTERNSHIP,LIFE701,LO,LO5,"âIdentify personal and research transferables skills, linking them to employability.â"
+RESEARCH INTERNSHIP,LIFE701,SKILL,S1,ââProblem solving skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S2,ââTeamwork
+RESEARCH INTERNSHIP,LIFE701,SKILL,S3,ââCommunication skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S4,ââEthical awareness
+RESEARCH INTERNSHIP,LIFE701,SKILL,S5,Â
+RESEARCH INTERNSHIP,LIFE701,LO,LO7,Â
+RESEARCH INTERNSHIP,LIFE701,SKILL,S1,ââProblem solving skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S2,ââTeamwork
+RESEARCH INTERNSHIP,LIFE701,SKILL,S3,ââCommunication skills
+RESEARCH INTERNSHIP,LIFE701,SKILL,S4,ââEthical awareness
+RESEARCH INTERNSHIP,LIFE701,SKILL,S5,Â
+INTRODUCTION TO RESEARCH,LIFE702,LO,LO1,âDemonstrate a systematic knowledge and critical understanding of the essential concepts in their chosen field of study;
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S1,Technical writing
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S2,Independence
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S3,Time management
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S4,Reflective learning
+INTRODUCTION TO RESEARCH,LIFE702,LO,LO2,âDemonstrate competency in a range of skills necessary to work in a research laboratory and to complete a successful research project;
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S1,Technical writing
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S2,Independence
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S3,Time management
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S4,Reflective learning
+INTRODUCTION TO RESEARCH,LIFE702,LO,LO3,Develop and present a plan for a research project in the form of a grant proposal.
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S1,Technical writing
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S2,Independence
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S3,Time management
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S4,Reflective learning
+INTRODUCTION TO RESEARCH,LIFE702,LO,LO4,Critically review scientific literature
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S1,Technical writing
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S2,Independence
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S3,Time management
+INTRODUCTION TO RESEARCH,LIFE702,SKILL,S4,Reflective learning
+MSC RESEARCH PROJECT,LIFE703,LO,LO1,âPlan a piece of original scientific research;
+MSC RESEARCH PROJECT,LIFE703,SKILL,S1,"âResearch management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics."
+MSC RESEARCH PROJECT,LIFE703,SKILL,S2,"âSelf-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;"
+MSC RESEARCH PROJECT,LIFE703,SKILL,S3,"âTeam (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others."
+MSC RESEARCH PROJECT,LIFE703,LO,LO2,âDesign and perform a coherent set of investigations to test a hypothesis;
+MSC RESEARCH PROJECT,LIFE703,SKILL,S1,"âResearch management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics."
+MSC RESEARCH PROJECT,LIFE703,SKILL,S2,"âSelf-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;"
+MSC RESEARCH PROJECT,LIFE703,SKILL,S3,"âTeam (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others."
+MSC RESEARCH PROJECT,LIFE703,LO,LO3,âPresent work in the form of an oral presentation to a scientific audience and at an oral examination;
+MSC RESEARCH PROJECT,LIFE703,SKILL,S1,"âResearch management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics."
+MSC RESEARCH PROJECT,LIFE703,SKILL,S2,"âSelf-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;"
+MSC RESEARCH PROJECT,LIFE703,SKILL,S3,"âTeam (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others."
+MSC RESEARCH PROJECT,LIFE703,LO,LO4,âWrite final report in the form of a manuscript that would be suitable for submission as a scientific publication.
+MSC RESEARCH PROJECT,LIFE703,SKILL,S1,"âResearch management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, collecting and using data, applying research methods, applying ethics."
+MSC RESEARCH PROJECT,LIFE703,SKILL,S2,"âSelf-management: readiness to accept responsibility (that is, leadership), flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning;"
+MSC RESEARCH PROJECT,LIFE703,SKILL,S3,"âTeam (group) working: respecting others, co-operating, negotiating / persuading, awareness of interdependence with others."
+BIOL DATA SKILLS,LIFE707,LO,LO1,Interrogate and summarise complex datasets and provide publication quality visualisation of key data features
+BIOL DATA SKILLS,LIFE707,SKILL,S1,Digital fluency
+BIOL DATA SKILLS,LIFE707,SKILL,S2,Data analysis
+BIOL DATA SKILLS,LIFE707,SKILL,S3,Communication skills
+BIOL DATA SKILLS,LIFE707,LO,LO2,Develop and test hypotheses using appropriate statistical methods from biological dataâ¯
+BIOL DATA SKILLS,LIFE707,SKILL,S1,Digital fluency
+BIOL DATA SKILLS,LIFE707,SKILL,S2,Data analysis
+BIOL DATA SKILLS,LIFE707,SKILL,S3,Communication skills
+BIOL DATA SKILLS,LIFE707,LO,LO3,Critically evaluate data-based evidence and interpret high dimensional biological data using quantitative methods
+BIOL DATA SKILLS,LIFE707,SKILL,S1,Digital fluency
+BIOL DATA SKILLS,LIFE707,SKILL,S2,Data analysis
+BIOL DATA SKILLS,LIFE707,SKILL,S3,Communication skills
+BIOL DATA SKILLS,LIFE707,LO,LO4,Clearly and accurately communicate data-driven analyses and results within a biological context including inherent uncertainties in the strength of evidential support
+BIOL DATA SKILLS,LIFE707,SKILL,S1,Digital fluency
+BIOL DATA SKILLS,LIFE707,SKILL,S2,Data analysis
+BIOL DATA SKILLS,LIFE707,SKILL,S3,Communication skills
+EVOLUTION AND BEHAVIOUR,LIFE709,LO,LO1,Synthesise new information on evolutionary and behaviour research
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S1,"â Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S2,"Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S3,"âInformation literacy online, finding, interpreting, evaluating, managing and sharing information"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S5,"Literacy application of literacy, ability to produce clear, structured written work and oral literacy - including listening and questioning"
+EVOLUTION AND BEHAVIOUR,LIFE709,LO,LO2,âExplain complex evolutionary and behavioural topics for both generalist and specialist biologists
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S1,"â Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S2,"Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S3,"âInformation literacy online, finding, interpreting, evaluating, managing and sharing information"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S5,"Literacy application of literacy, ability to produce clear, structured written work and oral literacy - including listening and questioning"
+EVOLUTION AND BEHAVIOUR,LIFE709,LO,LO3,"Critically evaluate evolutionary and behavioural evidence, and suggest novel areas for research."
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S1,"â Team (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S2,"Communication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S3,"âInformation literacy online, finding, interpreting, evaluating, managing and sharing information"
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+EVOLUTION AND BEHAVIOUR,LIFE709,SKILL,S5,"Literacy application of literacy, ability to produce clear, structured written work and oral literacy - including listening and questioning"
+Professional Employability and Research Skills,LIFE710,LO,LO1,Demonstrate improved self-awareness and personal effectiveness
+Professional Employability and Research Skills,LIFE710,SKILL,S1,âProblem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Professional Employability and Research Skills,LIFE710,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+Professional Employability and Research Skills,LIFE710,SKILL,S3,âCommunication and collaboration online participating in digital networks for learning and research
+Professional Employability and Research Skills,LIFE710,SKILL,S4,"Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics"
+Professional Employability and Research Skills,LIFE710,LO,LO2,Work effectively as a team member to achieve a scientific goal
+Professional Employability and Research Skills,LIFE710,SKILL,S1,âProblem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Professional Employability and Research Skills,LIFE710,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+Professional Employability and Research Skills,LIFE710,SKILL,S3,âCommunication and collaboration online participating in digital networks for learning and research
+Professional Employability and Research Skills,LIFE710,SKILL,S4,"Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics"
+Professional Employability and Research Skills,LIFE710,LO,LO3,"Communicate effectively, using in a variety of contexts to scientific and non-scientific audiences"
+Professional Employability and Research Skills,LIFE710,SKILL,S1,âProblem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Professional Employability and Research Skills,LIFE710,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+Professional Employability and Research Skills,LIFE710,SKILL,S3,âCommunication and collaboration online participating in digital networks for learning and research
+Professional Employability and Research Skills,LIFE710,SKILL,S4,"Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics"
+Professional Employability and Research Skills,LIFE710,LO,LO4,Access and critically evaluate appropriate bibliographic resources and databases
+Professional Employability and Research Skills,LIFE710,SKILL,S1,âProblem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Professional Employability and Research Skills,LIFE710,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+Professional Employability and Research Skills,LIFE710,SKILL,S3,âCommunication and collaboration online participating in digital networks for learning and research
+Professional Employability and Research Skills,LIFE710,SKILL,S4,"Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics"
+Professional Employability and Research Skills,LIFE710,LO,LO5,Evaluate relevant health and safety issues and demonstrate responsible working practices
+Professional Employability and Research Skills,LIFE710,SKILL,S1,âProblem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Professional Employability and Research Skills,LIFE710,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+Professional Employability and Research Skills,LIFE710,SKILL,S3,âCommunication and collaboration online participating in digital networks for learning and research
+Professional Employability and Research Skills,LIFE710,SKILL,S4,"Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics"
+Professional Employability and Research Skills,LIFE710,LO,LO6,Demonstrate improved awareness of career opportunities and employability prospects via development of independent learning and self-evaluation skills
+Professional Employability and Research Skills,LIFE710,SKILL,S1,âProblem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Professional Employability and Research Skills,LIFE710,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+Professional Employability and Research Skills,LIFE710,SKILL,S3,âCommunication and collaboration online participating in digital networks for learning and research
+Professional Employability and Research Skills,LIFE710,SKILL,S4,"Research management developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary/secondary/diverse sources; using data, applying research methods, applying ethics"
+Negotiated Research Skills,LIFE714,LO,LO1,On successful completion of the module the student will be able: to systematically and accurately identifyÂ gaps in theirÂ existing set of skills needed to support their chosen research project;
+Negotiated Research Skills,LIFE714,SKILL,S1,Time and project management: personal action planning;
+Negotiated Research Skills,LIFE714,SKILL,S2,Improving own learning / performance: reflective practice;
+Negotiated Research Skills,LIFE714,SKILL,S3,"Communication (oral, written and visual): negotiation skills;"
+Negotiated Research Skills,LIFE714,SKILL,S4,Personal attributes and qualities: self-efficacy (self-belief / intrinsic motivation).
+Negotiated Research Skills,LIFE714,LO,LO2,"To construct a ""learning contract"" specifying a set of new skills to be acquired, with timescales and mechanisms indicated;"
+Negotiated Research Skills,LIFE714,SKILL,S1,Time and project management: personal action planning;
+Negotiated Research Skills,LIFE714,SKILL,S2,Improving own learning / performance: reflective practice;
+Negotiated Research Skills,LIFE714,SKILL,S3,"Communication (oral, written and visual): negotiation skills;"
+Negotiated Research Skills,LIFE714,SKILL,S4,Personal attributes and qualities: self-efficacy (self-belief / intrinsic motivation).
+Negotiated Research Skills,LIFE714,LO,LO3,To compile a portfolio of evidence which shows how and when the components of the learning contract have been achievedâ;
+Negotiated Research Skills,LIFE714,SKILL,S1,Time and project management: personal action planning;
+Negotiated Research Skills,LIFE714,SKILL,S2,Improving own learning / performance: reflective practice;
+Negotiated Research Skills,LIFE714,SKILL,S3,"Communication (oral, written and visual): negotiation skills;"
+Negotiated Research Skills,LIFE714,SKILL,S4,Personal attributes and qualities: self-efficacy (self-belief / intrinsic motivation).
+Negotiated Research Skills,LIFE714,LO,LO4,"To reflect on their learning, critically analysing the extent to which the components of the learning contract have been achieved and their relevance to the research project."
+Negotiated Research Skills,LIFE714,SKILL,S1,Time and project management: personal action planning;
+Negotiated Research Skills,LIFE714,SKILL,S2,Improving own learning / performance: reflective practice;
+Negotiated Research Skills,LIFE714,SKILL,S3,"Communication (oral, written and visual): negotiation skills;"
+Negotiated Research Skills,LIFE714,SKILL,S4,Personal attributes and qualities: self-efficacy (self-belief / intrinsic motivation).
+INFORMATICS FOR LIFE SCIENCES,LIFE721,LO,LO1,âCritically evaluate and utilise core techniques in bioinformatics to support their research
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S1,"Learning skills online studying and learning effectively in technology-rich environments, formal and informal."
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S2,Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S3,Communication and collaboration online participating in digital networks for learning and research.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,LO,LO2,"âCritically analyse, evaluate data analyses results and interpret them within the relevant research context."
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S1,"Learning skills online studying and learning effectively in technology-rich environments, formal and informal."
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S2,Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S3,Communication and collaboration online participating in digital networks for learning and research.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,LO,LO3,âEvaluate research methods in bioinformatics to solve biological problems
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S1,"Learning skills online studying and learning effectively in technology-rich environments, formal and informal."
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S2,Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S3,Communication and collaboration online participating in digital networks for learning and research.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,LO,LO4,âCritically evaluate the literature and apply knowledge when analysing data.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S1,"Learning skills online studying and learning effectively in technology-rich environments, formal and informal."
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S2,Problem solving/critical thinking/creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+INFORMATICS FOR LIFE SCIENCES,LIFE721,SKILL,S3,Communication and collaboration online participating in digital networks for learning and research.
+Cancer Research and Treatment,LIFE724,LO,LO1,To assess and critique the current topics of research in cancer
+Cancer Research and Treatment,LIFE724,SKILL,S1,Problem solving
+Cancer Research and Treatment,LIFE724,SKILL,S2,Presentation of scientific data
+Cancer Research and Treatment,LIFE724,SKILL,S3,Critical assessment of scientific data
+Cancer Research and Treatment,LIFE724,LO,LO2,"To identify unmet screening, diagnostic and therapeutic needs in cancer."
+Cancer Research and Treatment,LIFE724,SKILL,S1,Problem solving
+Cancer Research and Treatment,LIFE724,SKILL,S2,Presentation of scientific data
+Cancer Research and Treatment,LIFE724,SKILL,S3,Critical assessment of scientific data
+Cancer Research and Treatment,LIFE724,LO,LO3,To analyse and interpret research areas focussing on the fundamental mechanisms of cancer growth and resistance to therapies
+Cancer Research and Treatment,LIFE724,SKILL,S1,Problem solving
+Cancer Research and Treatment,LIFE724,SKILL,S2,Presentation of scientific data
+Cancer Research and Treatment,LIFE724,SKILL,S3,Critical assessment of scientific data
+Cancer Research and Treatment,LIFE724,LO,LO4,To appraise state of the art technologies used in cancer research and interpret results
+Cancer Research and Treatment,LIFE724,SKILL,S1,Problem solving
+Cancer Research and Treatment,LIFE724,SKILL,S2,Presentation of scientific data
+Cancer Research and Treatment,LIFE724,SKILL,S3,Critical assessment of scientific data
+Cancer Clinical Trials,LIFE726,LO,LO1,Assess the different cancer clinical trial strategies and designs
+Cancer Clinical Trials,LIFE726,SKILL,S1,Scientific communication
+Cancer Clinical Trials,LIFE726,SKILL,S2,Develop critical thinking
+Cancer Clinical Trials,LIFE726,SKILL,S3,Digital fluency
+Cancer Clinical Trials,LIFE726,LO,LO2,Justify appropriate courses of action to ensure good practice is set out and adhered to in given cancer clinical trial situations
+Cancer Clinical Trials,LIFE726,SKILL,S1,Scientific communication
+Cancer Clinical Trials,LIFE726,SKILL,S2,Develop critical thinking
+Cancer Clinical Trials,LIFE726,SKILL,S3,Digital fluency
+Cancer Clinical Trials,LIFE726,LO,LO3,Analyse and interpret cancer clinical trial data
+Cancer Clinical Trials,LIFE726,SKILL,S1,Scientific communication
+Cancer Clinical Trials,LIFE726,SKILL,S2,Develop critical thinking
+Cancer Clinical Trials,LIFE726,SKILL,S3,Digital fluency
+Cancer Clinical Trials,LIFE726,LO,LO4,Critique and appraise published cancer clinical trials and systematic reviews
+Cancer Clinical Trials,LIFE726,SKILL,S1,Scientific communication
+Cancer Clinical Trials,LIFE726,SKILL,S2,Develop critical thinking
+Cancer Clinical Trials,LIFE726,SKILL,S3,Digital fluency
+Immunology,LIFE728,LO,LO1,"To evaluate critically â¯the current concepts of host immunity and defence against viral, bacterial and parasite infections"
+Immunology,LIFE728,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Immunology,LIFE728,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Immunology,LIFE728,LO,LO2,Demonstrate a comprehensive understanding of innate and adaptive immune responses and their interactions
+Immunology,LIFE728,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Immunology,LIFE728,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Immunology,LIFE728,LO,LO3,"Critically evaluate methodologies for the study of key effector immune cells in host immune tissues, their migration and functions"
+Immunology,LIFE728,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Immunology,LIFE728,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Immunology,LIFE728,LO,LO4,"Demonstrate a systematic understanding of immune function knowledge, and a critical awareness of the mucosal immune system relevant to the gastrointestinal and respiratory tracts and selected exemplar pathogens"
+Immunology,LIFE728,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Immunology,LIFE728,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Immunology,LIFE728,LO,LO5,Demonstrate critical awareness of current problems from immunological threats posed by infectious diseases and the potential of vaccines
+Immunology,LIFE728,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Immunology,LIFE728,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Research Methods in Biol Sci,LIFE731,LO,LO1,Develop hypotheses and design a series of experiments that would allow these hypotheses to be tested
+Research Methods in Biol Sci,LIFE731,SKILL,S1,Communication Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S2,Organisational Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S3,Lifelong learning skills
+Research Methods in Biol Sci,LIFE731,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Research Methods in Biol Sci,LIFE731,SKILL,S5,"Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture"
+Research Methods in Biol Sci,LIFE731,LO,LO2,"Critically review the legal and moral frameworks within which scientific research must be conducted, in particular research ethics and current legislation;"
+Research Methods in Biol Sci,LIFE731,SKILL,S1,Communication Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S2,Organisational Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S3,Lifelong learning skills
+Research Methods in Biol Sci,LIFE731,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Research Methods in Biol Sci,LIFE731,SKILL,S5,"Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture"
+Research Methods in Biol Sci,LIFE731,LO,LO3,"Effectively communicate research findings using writing styles for different audiences, including the scientific and lay communities, and to understand the need to promote the public understanding of science;"
+Research Methods in Biol Sci,LIFE731,SKILL,S1,Communication Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S2,Organisational Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S3,Lifelong learning skills
+Research Methods in Biol Sci,LIFE731,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Research Methods in Biol Sci,LIFE731,SKILL,S5,"Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture"
+Research Methods in Biol Sci,LIFE731,LO,LO4,"Debate why and when biologists need to engage with mathematicians, computer scientists and physical scientists to obtain more quantitative, holistic or systems-based approaches to studying biological processes"
+Research Methods in Biol Sci,LIFE731,SKILL,S1,Communication Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S2,Organisational Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S3,Lifelong learning skills
+Research Methods in Biol Sci,LIFE731,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Research Methods in Biol Sci,LIFE731,SKILL,S5,"Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture"
+Research Methods in Biol Sci,LIFE731,LO,LO5,"Critically review the latest scientific discoveries in their research field, and understand the principles underpinning cutting edge technologies that may be applied to their area of scientific investigation;"
+Research Methods in Biol Sci,LIFE731,SKILL,S1,Communication Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S2,Organisational Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S3,Lifelong learning skills
+Research Methods in Biol Sci,LIFE731,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Research Methods in Biol Sci,LIFE731,SKILL,S5,"Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture"
+Research Methods in Biol Sci,LIFE731,LO,LO6,"Synthesise information, critically review evidence to support conclusions, and define complex problems by applying appropriate knowledge and skills."
+Research Methods in Biol Sci,LIFE731,SKILL,S1,Communication Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S2,Organisational Skills
+Research Methods in Biol Sci,LIFE731,SKILL,S3,Lifelong learning skills
+Research Methods in Biol Sci,LIFE731,SKILL,S4,Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.
+Research Methods in Biol Sci,LIFE731,SKILL,S5,"Global perspectives demonstrate international perspectives as professionals/citizens; locate, discuss, analyse, evaluate information from international sources; consider issues from a variety of cultural perspectives, consider ethical and social responsibility issues in international settings; value diversity of language and culture"
+"Diagnostics, Therapeutics and Vaccines",LIFE732,LO,LO1,To critically evaluate the strategies needed to design and develop novel drugs and vaccines for infectious disease
+"Diagnostics, Therapeutics and Vaccines",LIFE732,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+"Diagnostics, Therapeutics and Vaccines",LIFE732,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"Diagnostics, Therapeutics and Vaccines",LIFE732,LO,LO2,"Demonstrate critical awareness of successes and current problems from infectious diseases, the genesis and implementation of diagnostics and strategies for limiting infection"
+"Diagnostics, Therapeutics and Vaccines",LIFE732,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+"Diagnostics, Therapeutics and Vaccines",LIFE732,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+"Diagnostics, Therapeutics and Vaccines",LIFE732,LO,LO3,"Demonstrate a systematic understanding of the various agencies that input into local, national and global development of disease interventions"
+"Diagnostics, Therapeutics and Vaccines",LIFE732,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+"Diagnostics, Therapeutics and Vaccines",LIFE732,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+CODING FOR LIFE SCIENCES,LIFE733,LO,LO1,Use Python for basic scriptingâ
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S1,"âCommunication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+CODING FOR LIFE SCIENCES,LIFE733,LO,LO2,Understanding data structures in python and apply them to biological dataâ
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S1,"âCommunication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+CODING FOR LIFE SCIENCES,LIFE733,LO,LO3,Use Python for manipulating files and controlling the running of external programs
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S1,"âCommunication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+CODING FOR LIFE SCIENCES,LIFE733,LO,LO4,Write Python code for performing simple bioinformatics tasks
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S1,"âCommunication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+CODING FOR LIFE SCIENCES,LIFE733,LO,LO5,Use Python to plot and analyse simple data
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S1,"âCommunication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+CODING FOR LIFE SCIENCES,LIFE733,LO,LO6,Understand basic concepts in supervised machine learning and use Python for such analyses
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S1,"âCommunication, listening and questioning respecting others, contributing to discussions, communicating in a foreign language, influencing, presentations"
+CODING FOR LIFE SCIENCES,LIFE733,SKILL,S2,"âTeam (group) working respecting others, co-operating, negotiating / persuading, awareness of interdependence with others"
+MRES RESEARCH PROJECT 1,LIFE735,LO,LO1,Plan an original research study in the field of biological sciences within a specified time frame.
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 1,LIFE735,LO,LO2,"Critically evaluate appropriate research techniques, when designing a biological sciences research project."
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 1,LIFE735,LO,LO3,"Critically appraise relevant literature in the field of biological sciences, utilising insights when designing an original research project."
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 1,LIFE735,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE736,LO,LO1,"Conduct, analyse and interpret original empirical research in the field of biological sciences within a specified time frame."
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE736,LO,LO2,Apply and critically evaluate appropriate techniques when conducting biological sciences research.
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE736,LO,LO3,Communicate project findings to a scientific audience.
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE736,LO,LO4,"Critically appraise relevant literature in the field of biological sciences, utilising insights when interpreting results from original research."
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE736,LO,LO5,"Evaluate own performance and working standards by reflection, and place work in a wider scientific context."
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE736,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 1,LIFE737,LO,LO1,Plan an original research study in the field of biological sciences within a specified time frame.
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 1,LIFE737,LO,LO2,"Critically evaluate appropriate research techniques, when designing a biological sciences research project."
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 1,LIFE737,LO,LO3,"Critically appraise relevant literature in the field of biological sciences, utilising insights when designing an original research project."
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 1,LIFE737,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE738,LO,LO1,"Conduct, analyse and interpret original empirical research in the field of biological sciences within a specified time frame."
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE738,LO,LO2,Apply and critically evaluate appropriate techniques when conducting biological sciences research.
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE738,LO,LO3,Communicate project findings to a scientific audience.
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE738,LO,LO4,"Critically appraise relevant literature in the field of biological sciences, utilising insights when interpreting results from original research."
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+MRES RESEARCH PROJECT 2,LIFE738,LO,LO5,"Evaluate own performance and working standards by reflection, and place work in a wider scientific context."
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S1,"Literacy: Application of literacy, ability to produce clear, structured written work"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S2,Problem solving/Critical thinking/Creativity: Analysing facts and situations and applying creative thinking to develop appropriate solutions
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S3,"Communication: Listening and questioning, respecting others, contributing to discussions, influencing, delivering clear presentations"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S4,"Organisation/Self-management/Independence/Leadership: Readiness to accept responsibility, flexibility, resilience, self-starting, using initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning"
+MRES RESEARCH PROJECT 2,LIFE738,SKILL,S5,"Planning/Compliance: Plan, manage and execute research within ethical, health and safety, and research governance frameworks"
+Practical Bioinformatics,LIFE748,LO,LO1,Critically analyse and evaluate genomics and protein data
+Practical Bioinformatics,LIFE748,SKILL,S1,Digital fluency
+Practical Bioinformatics,LIFE748,SKILL,S2,"Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, using data, applying research methods, applying ethics"
+Practical Bioinformatics,LIFE748,SKILL,S3,"Self-management: readiness to accept responsibility, flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning."
+Practical Bioinformatics,LIFE748,LO,LO2,Perform genomic and protein analysis necessary to complete a successful research project
+Practical Bioinformatics,LIFE748,SKILL,S1,Digital fluency
+Practical Bioinformatics,LIFE748,SKILL,S2,"Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, using data, applying research methods, applying ethics"
+Practical Bioinformatics,LIFE748,SKILL,S3,"Self-management: readiness to accept responsibility, flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning."
+Practical Bioinformatics,LIFE748,LO,LO3,Critically appraise and evaluate computer skills necessary for bioinformatics analyses
+Practical Bioinformatics,LIFE748,SKILL,S1,Digital fluency
+Practical Bioinformatics,LIFE748,SKILL,S2,"Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, using data, applying research methods, applying ethics"
+Practical Bioinformatics,LIFE748,SKILL,S3,"Self-management: readiness to accept responsibility, flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning."
+Practical Bioinformatics,LIFE748,LO,LO4,"Develop and present a plan for a research project which critically appraises the background of the project, evaluates the methodologies, formulates hypotheses, and objectives, and resources required"
+Practical Bioinformatics,LIFE748,SKILL,S1,Digital fluency
+Practical Bioinformatics,LIFE748,SKILL,S2,"Research management: developing a research strategy, project planning and delivery, risk management, formulating questions, selecting literature, using primary / secondary / diverse sources, using data, applying research methods, applying ethics"
+Practical Bioinformatics,LIFE748,SKILL,S3,"Self-management: readiness to accept responsibility, flexibility, resilience, self-starting, initiative, integrity, willingness to take risks, appropriate assertiveness, time management, readiness to improve own performance based on feedback / reflective learning."
+Cellular Biotech and Imaging,LIFE749,LO,LO1,Compare various mammalian cell culture and cell analysis techniques.
+Cellular Biotech and Imaging,LIFE749,SKILL,S1,Scientific Communication
+Cellular Biotech and Imaging,LIFE749,SKILL,S2,Scientific Technical Ability
+Cellular Biotech and Imaging,LIFE749,SKILL,S3,Digital Fluency
+Cellular Biotech and Imaging,LIFE749,SKILL,S4,Critical Thinking
+Cellular Biotech and Imaging,LIFE749,LO,LO2,Critically review the molecular details of various technologies for the genetic manipulation of mammalian cells .
+Cellular Biotech and Imaging,LIFE749,SKILL,S1,Scientific Communication
+Cellular Biotech and Imaging,LIFE749,SKILL,S2,Scientific Technical Ability
+Cellular Biotech and Imaging,LIFE749,SKILL,S3,Digital Fluency
+Cellular Biotech and Imaging,LIFE749,SKILL,S4,Critical Thinking
+Cellular Biotech and Imaging,LIFE749,LO,LO3,"Critically evaluate a broad range of imaging techniques and modalities to analyse cellular features and cell behaviour at different scales, from microscopic analysis to imaging in animal models of disease."
+Cellular Biotech and Imaging,LIFE749,SKILL,S1,Scientific Communication
+Cellular Biotech and Imaging,LIFE749,SKILL,S2,Scientific Technical Ability
+Cellular Biotech and Imaging,LIFE749,SKILL,S3,Digital Fluency
+Cellular Biotech and Imaging,LIFE749,SKILL,S4,Critical Thinking
+Cellular Biotech and Imaging,LIFE749,LO,LO4,Appraise the translational impact of cellular biotechnology approaches and justify their application in medical research.
+Cellular Biotech and Imaging,LIFE749,SKILL,S1,Scientific Communication
+Cellular Biotech and Imaging,LIFE749,SKILL,S2,Scientific Technical Ability
+Cellular Biotech and Imaging,LIFE749,SKILL,S3,Digital Fluency
+Cellular Biotech and Imaging,LIFE749,SKILL,S4,Critical Thinking
+Advanced Genomic Analysis,LIFE750,LO,LO1,Design genomics experiments to address a given biological problem.
+Advanced Genomic Analysis,LIFE750,SKILL,S1,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Advanced Genomic Analysis,LIFE750,SKILL,S2,Problem solving
+Advanced Genomic Analysis,LIFE750,SKILL,S3,Communication skills
+Advanced Genomic Analysis,LIFE750,LO,LO2,Categorise a broad range of common genomic analyses and the types of data sets to which they can be applied.
+Advanced Genomic Analysis,LIFE750,SKILL,S1,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Advanced Genomic Analysis,LIFE750,SKILL,S2,Problem solving
+Advanced Genomic Analysis,LIFE750,SKILL,S3,Communication skills
+Advanced Genomic Analysis,LIFE750,LO,LO3,Justify a choice of genomic data analysis tools and strategies.
+Advanced Genomic Analysis,LIFE750,SKILL,S1,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Advanced Genomic Analysis,LIFE750,SKILL,S2,Problem solving
+Advanced Genomic Analysis,LIFE750,SKILL,S3,Communication skills
+Advanced Genomic Analysis,LIFE750,LO,LO4,Interpret the outcomes of genomic analyses in their biological context. Learning
+Advanced Genomic Analysis,LIFE750,SKILL,S1,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Advanced Genomic Analysis,LIFE750,SKILL,S2,Problem solving
+Advanced Genomic Analysis,LIFE750,SKILL,S3,Communication skills
+Emerging Infections and Pandemics,LIFE751,LO,LO1,To critically evaluate the history of both emerging animal and human diseases with major societal impact and interrogate the inter-species associations of infectious diseases
+Emerging Infections and Pandemics,LIFE751,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Emerging Infections and Pandemics,LIFE751,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Emerging Infections and Pandemics,LIFE751,LO,LO2,Demonstrate a comprehensive understanding of the origins and causalities of emerging pandemics with the underlying biology
+Emerging Infections and Pandemics,LIFE751,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Emerging Infections and Pandemics,LIFE751,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Emerging Infections and Pandemics,LIFE751,LO,LO3,To recognise and discuss the direct health consequences and societal impacts of a pandemic as well as the indirect effectors compromising the livestock and the foodchain as a whole.
+Emerging Infections and Pandemics,LIFE751,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Emerging Infections and Pandemics,LIFE751,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Emerging Infections and Pandemics,LIFE751,LO,LO4,Demonstrate a systematic understanding of individual pathogens causing emerging pandemics with their specific characteristics defining their gravity of the disease.
+Emerging Infections and Pandemics,LIFE751,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Emerging Infections and Pandemics,LIFE751,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Emerging Infections and Pandemics,LIFE751,LO,LO5,Critically evaluate the precautionary measures needed to curtail or to minimise the damaging effects from emergence of a new pandemic.
+Emerging Infections and Pandemics,LIFE751,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+Emerging Infections and Pandemics,LIFE751,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Computational Biology,LIFE752,LO,LO1,Justify the integration of different tools and approaches for the description and analysis of complex data
+Computational Biology,LIFE752,SKILL,S1,Written communication
+Computational Biology,LIFE752,SKILL,S2,Think critically
+Computational Biology,LIFE752,SKILL,S3,Problem solving
+Computational Biology,LIFE752,SKILL,S4,Biological Interpretation
+Computational Biology,LIFE752,SKILL,S5,IT skills
+Computational Biology,LIFE752,LO,LO2,Critically assess the basis for quantitative and computational techniques
+Computational Biology,LIFE752,SKILL,S1,Written communication
+Computational Biology,LIFE752,SKILL,S2,Think critically
+Computational Biology,LIFE752,SKILL,S3,Problem solving
+Computational Biology,LIFE752,SKILL,S4,Biological Interpretation
+Computational Biology,LIFE752,SKILL,S5,IT skills
+Computational Biology,LIFE752,LO,LO3,Demonstrate proficiency using computational analysis approaches to model the interaction of cellular molecular components in a wide range of biological systems
+Computational Biology,LIFE752,SKILL,S1,Written communication
+Computational Biology,LIFE752,SKILL,S2,Think critically
+Computational Biology,LIFE752,SKILL,S3,Problem solving
+Computational Biology,LIFE752,SKILL,S4,Biological Interpretation
+Computational Biology,LIFE752,SKILL,S5,IT skills
+Computational Biology,LIFE752,LO,LO4,"Critically assess the application of complex computational approaches for the discovery, development and optimisation of therapies"
+Computational Biology,LIFE752,SKILL,S1,Written communication
+Computational Biology,LIFE752,SKILL,S2,Think critically
+Computational Biology,LIFE752,SKILL,S3,Problem solving
+Computational Biology,LIFE752,SKILL,S4,Biological Interpretation
+Computational Biology,LIFE752,SKILL,S5,IT skills
+Proteomics Metabolomics and Data Analysis,LIFE754,LO,LO1,Appraise proteomic and metabolome techniques.
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S1,Problem Solving Skills
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S2,Communication Skills â Professional Report Writing
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S3,Coding and Statistical Analysis
+Proteomics Metabolomics and Data Analysis,LIFE754,LO,LO2,Evaluate analytical methods and design proteomics or metabolomics experiments to address a given biological problem.
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S1,Problem Solving Skills
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S2,Communication Skills â Professional Report Writing
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S3,Coding and Statistical Analysis
+Proteomics Metabolomics and Data Analysis,LIFE754,LO,LO3,Critically appraise data analysis tools and strategies and interpret the experimental data in the biological context
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S1,Problem Solving Skills
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S2,Communication Skills â Professional Report Writing
+Proteomics Metabolomics and Data Analysis,LIFE754,SKILL,S3,Coding and Statistical Analysis
+Synthetic Biology and Biotechnology,LIFE756,LO,LO1,"Critically appraise concept and research evidence relating to current grand challenges and industrial needs, and how biotechnological methods are developed and exploited to address the problems"
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S1,Scientific communication
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S2,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S3,Critical thinking
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S4,Team work
+Synthetic Biology and Biotechnology,LIFE756,LO,LO2,Critically evaluate key theoretical and practical knowledge in a diverse range of synthetic biology and biotechnology techniques and applications
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S1,Scientific communication
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S2,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S3,Critical thinking
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S4,Team work
+Synthetic Biology and Biotechnology,LIFE756,LO,LO3,Design and evaluate appropriate approaches and processes for synthetic biology and biotechnology techniques
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S1,Scientific communication
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S2,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S3,Critical thinking
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S4,Team work
+Synthetic Biology and Biotechnology,LIFE756,LO,LO4,Evaluate the public concerns and ethical issues in the fields of synthetic biology and biotechnology
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S1,Scientific communication
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S2,"Analyse, synthesize, evaluate and interpret information from a variety of sources in a critical manner"
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S3,Critical thinking
+Synthetic Biology and Biotechnology,LIFE756,SKILL,S4,Team work
+Global Outbreaks,LIFE758,LO,LO1,Critically appraise the scale and societal and economic impact of past and present human and animal pandemics in workshop discussions
+Global Outbreaks,LIFE758,SKILL,S1,"Analyse complex problems both systematically and creatively, and communicate their conclusions clearly to audiences"
+Global Outbreaks,LIFE758,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Global Outbreaks,LIFE758,LO,LO2,"Critically evaluate the range of control interventions and strategies needed to prevent, mitigate, and control infections among at-risk populations"
+Global Outbreaks,LIFE758,SKILL,S1,"Analyse complex problems both systematically and creatively, and communicate their conclusions clearly to audiences"
+Global Outbreaks,LIFE758,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Global Outbreaks,LIFE758,LO,LO3,"Determine the roles and responsibilities of the various stakeholders that input into global, national, and local surveillance and control measures"
+Global Outbreaks,LIFE758,SKILL,S1,"Analyse complex problems both systematically and creatively, and communicate their conclusions clearly to audiences"
+Global Outbreaks,LIFE758,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Global Outbreaks,LIFE758,LO,LO4,"Discuss the importance of effectively interpreting and disseminating factual data to diverse populations, and role of the media and communication"
+Global Outbreaks,LIFE758,SKILL,S1,"Analyse complex problems both systematically and creatively, and communicate their conclusions clearly to audiences"
+Global Outbreaks,LIFE758,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Global Outbreaks,LIFE758,LO,LO5,"Critically appraise and evaluate the tools, methods used and applications of bioinformatics and biobanks in the context of pandemics"
+Global Outbreaks,LIFE758,SKILL,S1,"Analyse complex problems both systematically and creatively, and communicate their conclusions clearly to audiences"
+Global Outbreaks,LIFE758,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,LO,LO1,âTo develop an understanding ofÂ statistical hypothesis testing;
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S1,"âNumeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);"
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S2,"âProblem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions."
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,LO,LO2,âTo apply a range of relevant statistical tests to complex datasets to draw statistical conclusions;
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S1,"âNumeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);"
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S2,"âProblem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions."
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,LO,LO3,To critically assessÂ the appropriateness of a statistical test;
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S1,"âNumeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);"
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S2,"âProblem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions."
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,LO,LO4,âToÂ intepret and report data collected in biological research.
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S1,"âNumeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);"
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S2,"âProblem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions."
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,LO,LO5,To develop programming skills relevant for statistical analysis.
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S1,"âNumeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);"
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S2,"âProblem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions."
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,LO,LO6,Use data visualisation techniques to present âbigâ data
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S1,"âNumeracy (application of) manipulation of numbers, general mathematical awareness and its application in practical contexts (eg measuring, weighing, estimating and applying formulae);"
+STATISTICS FOR BIOLOGICAL RES.,LIFE763,SKILL,S2,"âProblem solving, critical thinking, creativity; analysing facts and situations and applying creative thinking to develop appropriate solutions."
+ExperimentalMedClinPharm,LIFE764,LO,LO1,To critically evaluate the history of the Medicines and Healthcare Products Regulatory Agency Phase I Accreditation scheme including when trials go wrong
+ExperimentalMedClinPharm,LIFE764,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+ExperimentalMedClinPharm,LIFE764,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+ExperimentalMedClinPharm,LIFE764,LO,LO2,Critically appraise the assessment and management of risk in a clinical trial
+ExperimentalMedClinPharm,LIFE764,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+ExperimentalMedClinPharm,LIFE764,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+ExperimentalMedClinPharm,LIFE764,LO,LO3,Critically explain first dose calculation from pre-clinical data and how to deliver a safe dose escalation strategy
+ExperimentalMedClinPharm,LIFE764,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+ExperimentalMedClinPharm,LIFE764,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+ExperimentalMedClinPharm,LIFE764,LO,LO4,"Demonstrate a critical evaluation of inter-individual variability and complexity and the need for inclusive, representative clinical trials to better reflect the older, multimorbid real-world population for whom drugs are developed."
+ExperimentalMedClinPharm,LIFE764,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly to audiences"
+ExperimentalMedClinPharm,LIFE764,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Pharmaceutical Toxicology,LIFE765,LO,LO1,Critically examine the mechanisms underlying major organ toxicities
+Pharmaceutical Toxicology,LIFE765,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Pharmaceutical Toxicology,LIFE765,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Pharmaceutical Toxicology,LIFE765,LO,LO2,Critically evaluate the human factors that influence susceptibility to drug toxicities
+Pharmaceutical Toxicology,LIFE765,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Pharmaceutical Toxicology,LIFE765,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Pharmaceutical Toxicology,LIFE765,LO,LO3,Critically appraise established and novel approaches for studying drug toxicities
+Pharmaceutical Toxicology,LIFE765,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Pharmaceutical Toxicology,LIFE765,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency
+Drug Delivery and Advanced Therapeutics,LIFE766,LO,LO1,"Critically appraise popular approaches, materials and technologies used in novel drug delivery systems and advanced therapy medicinal products."
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency.
+Drug Delivery and Advanced Therapeutics,LIFE766,LO,LO2,Critically evaluate the non-clinical and clinical development landscape of novel drug delivery systems and advanced therapy medicinal products.
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency.
+Drug Delivery and Advanced Therapeutics,LIFE766,LO,LO3,Critically analyse regulatory requirements for novel drug delivery systems and advanced therapy medicinal products.
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency.
+Drug Delivery and Advanced Therapeutics,LIFE766,LO,LO4,Critically evaluate the promise and challenges of novel drug delivery systems and advanced therapy medicinal products.
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S1,"Deal with complex issues both systematically and creatively, and communicate their conclusions clearly"
+Drug Delivery and Advanced Therapeutics,LIFE766,SKILL,S2,Develop transferable skills; exercising initiative; independent-learning ability; digital fluency.

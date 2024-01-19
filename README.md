@@ -27,11 +27,19 @@ Need to know what version of Chrome you're currently using?
 reg query "HKLM\Software\Wow6432Node\Google\Update\Clients\{8A69D345-D564-463c-AFF1-A69D9E530F96}" /v pv
 ``````
 
-Run the `main.py` script and follow prompts. Good luck to you.
+Run the `main.py` script and follow prompts.
 
 ```{bash}
 python main.py
 ```
+
+There is another file, `extract_outcomes.py`. Running this will get all the Learning Outcomes from each course and save them to `module_outcomes.csv`.
+
+```{bash}
+python extract_outcomes.py
+```
+
+If you encounter an erro it's probably because one of your .html files contains no tables. Look for a weird filename and delete the file from the fomratted_html directory.
 
 
 

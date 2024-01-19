@@ -73,6 +73,13 @@ class CMSession:
         # Get username and password from user
         self.username = input("Input your MWS username: ")
         self.password = getpass.getpass("Input your MWS password: ")
+
+        # Get the current directory
+        current_dir = os.getcwd()
+
+        # Append the file name to the current directory
+        CHROMEDRIVER_PATH = os.path.join(current_dir, 'chromedriver.exe')
+
         
         # Configure webdriver
         service = Service(executable_path=CHROMEDRIVER_PATH)
