@@ -74,39 +74,50 @@ class CMSession:
         self.username = input("Input your MWS username: ")
         self.password = getpass.getpass("Input your MWS password: ")
 
-        # Get the current directory
-        current_dir = os.getcwd()
-
-        # Append the file name to the current directory
-        CHROMEDRIVER_PATH = os.path.join(current_dir, 'chromedriver.exe')
-
-        
-        # Configure webdriver
-        service = Service(executable_path=CHROMEDRIVER_PATH)
-        options = Options()
-        options.add_argument('--ignore-certificate-errors')
-        options.add_argument('--headless')
-        self.browser = webdriver.Chrome(service=service, options=options)
+        self.browser = webdriver.Firefox()
         
         # Login
         self.browser.get('https://liverpool-curriculum.worktribe.com/')
+
+        print("wait ...")
+        time.sleep(5)
         
-        username_input = self.browser.find_element(By.XPATH, "//input[@name='j_username']")
-        password_input = self.browser.find_element(By.XPATH, "//input[@name='j_password']")
+        username_input = self.browser.find_element(By.XPATH, "//input[@id='username']")
+        password_input = self.browser.find_element(By.XPATH, "//input[@id='password']")
 
         # Get submit button by text "LOG IN"
         submit_button = self.browser.find_element(By.CLASS_NAME, "form-button")
         
         username_input.send_keys(self.username)
         password_input.send_keys(self.password)
-        
+
         submit_button.click()
         
         # Wait for 10 seconds
         print("wait ...")
-        time.sleep(10)
+        time.sleep(5)
         
-        print("Verify your login by DUO")
+        # Find all elements with the class "verification-code"
+        elements = self.browser.find_elements(By.CLASS_NAME, "verification-code")
+        
+        # Print the text content of each element
+        for element in elements:
+            print("Verification code for DUO")
+            print(element.text)
+
+        # Countdown loop
+        for i in range(20, 0, -1):
+            print("You have {} seconds to enter your verification code.".format(i), end="\r")
+            time.sleep(1)
+        
+        # Confirm trust browser
+        try:
+            self.browser.find_element(By.ID, "trust-browser-button").click()
+            print("")
+            print("Login Success.")
+        except:
+            print("")
+            print("Login Failure")
 
 
 if __name__ == "__main__":

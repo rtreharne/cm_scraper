@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import os
 import validators
+import time
 
 css = """
 <style>
@@ -23,6 +24,7 @@ width: 100px;
 
 def get_courses(session, url):
     session.browser.get(url)
+    time.sleep(5)
     elems = session.browser.find_elements(By.TAG_NAME, 'a')
     courses = list(set([x.get_attribute("href") for x in elems if "record.jx?recordid="  in str(x.get_attribute("href"))]))
     return courses
@@ -62,23 +64,27 @@ def format_html(html):
             if len(str(sub.text)) != 0:
                 html_string += str(sub)
 
-    values = myDivs[0].find_all("td", {"class": "fieldvalue"})
+
+    try:
+        values = myDivs[0].find_all("td", {"class": "fieldvalue"})
+        
+        code = values[2].text
     
-    code = values[2].text
-   
-    fname = "{0}_{1}".format(str(code), str(values[0].text.upper())).replace(":", "-")
+        fname = "{0}_{1}".format(str(code), str(values[0].text.upper())).replace(":", "-")
 
-    html_string = html_string.replace("â€‹", "-")
+        html_string = html_string.replace("â€‹", "-")
 
 
-    if not os.path.exists("formatted_html"):
-         os.makedirs("formatted_html")
+        if not os.path.exists("formatted_html"):
+            os.makedirs("formatted_html")
 
-    with open("formatted_html/{0}".format(fname)+".html", 'w', encoding='utf-8') as f:
-                f.write(css+str(html_string))
-                success_string = "File saved as {0}".format(fname)+".html"
-    
-    return success_string
+        with open("formatted_html/{0}".format(fname)+".html", 'w', encoding='utf-8') as f:
+                    f.write(css+str(html_string))
+                    success_string = "File saved as {0}".format(fname)+".html"
+        
+        return success_string
+    except:
+        return "Sweeping error under the carpet. Nothing to see here."
 
 def main():
     print("""
