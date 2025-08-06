@@ -30,7 +30,7 @@ def get_courses(session, url):
     return courses
 
 def scrape_course(session, course):
-    headers = ["Details", "Outcomes", "Assessment", "Hours", "In Programmes"]
+    headers = ["Details", "Overview", "Outcomes", "Assessment", "Hours", "In Programmes"]
 
     #try:
     session.browser.get(course)

@@ -35,6 +35,18 @@ for filename in os.listdir(input_dir):
         if not table:
             continue
 
+        # Extract Assessment Strategy
+        strategy_label = soup.find('td', class_='fieldlabel', string=lambda t: t and 'Assessment Strategy' in t)
+        if strategy_label:
+            strategy_cell = strategy_label.find_next_sibling('td')
+            if strategy_cell:
+                assessment_strategy = strategy_cell.get_text(separator=' ', strip=True)
+            else:
+                assessment_strategy = ''
+        else:
+            assessment_strategy = ''
+
+
         for tbody in table.find_all('tbody'):
             for row in tbody.find_all('tr'):
                 cells = row.find_all('td')
@@ -51,12 +63,14 @@ for filename in os.listdir(input_dir):
                             'Course': filename.replace('.html', ''),
                             'Assessment Type': type_cell,
                             'Weighting': weight_cell,
-                            'Status': status_text
+                            'Status': status_text,
+                            'Assessment Strategy': assessment_strategy
                         })
+
 
 # Write to CSV
 with open(output_file, 'w', newline='', encoding='utf-8') as f:
-    writer = csv.DictWriter(f, fieldnames=['Course', 'Assessment Type', 'Weighting', 'Status'])
+    writer = csv.DictWriter(f, fieldnames=['Course', 'Assessment Type', 'Weighting', 'Status', 'Assessment Strategy'])
     writer.writeheader()
     writer.writerows(results)
 
